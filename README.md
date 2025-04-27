@@ -1,1 +1,1 @@
-# Fake-News-Check
+# Fake-News-Detector-App
